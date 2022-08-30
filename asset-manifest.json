@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Landing-Page-Template/static/css/main.83b5dced.chunk.css",
+    "main.js": "/React-Landing-Page-Template/static/js/main.c501acac.chunk.js",
+    "main.js.map": "/React-Landing-Page-Template/static/js/main.c501acac.chunk.js.map",
+    "runtime-main.js": "/React-Landing-Page-Template/static/js/runtime-main.60b75792.js",
+    "runtime-main.js.map": "/React-Landing-Page-Template/static/js/runtime-main.60b75792.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/React-Landing-Page-Template/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/React-Landing-Page-Template/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/React-Landing-Page-Template/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/React-Landing-Page-Template/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/React-Landing-Page-Template/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b75792.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.c501acac.chunk.js"
+  ]
+}
