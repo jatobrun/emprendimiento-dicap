@@ -126,37 +126,37 @@
     {
       "img": "img/team/geo.png",
       "name": "Geovana Talledo",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/leslieM.jpeg",
-      "name": "Leslie Mancheno",
-      "job": "Agente comercial"
+      "job": "Directora"
     },
     {
       "img": "img/team/leslie.png",
-      "name": "Leslie Coronel",
-      "job": "Director"
+      "name": "Leslie Mancheno",
+      "job": "Jefa comercial"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/leslieM.jpeg",
+      "name": "Leslie Coronel",
+      "job": "Jefa financiera"
+    },
+    {
+      "img": "img/team/andres.jpg",
       "name": "Jamil Torres",
-      "job": "Project Manager"
+      "job": "Programador"
     },
     {
       "img": "img/team/victor.png",
       "name": "Victor Alvarez",
-      "job": "Senior Designer"
+      "job": "Diseñador"
     },
     {
       "img": "img/team/gerson.jpeg",
       "name": "Natanael Cagua",
-      "job": "Senior Designer"
+      "job": "Consultor estrategico"
     },
     {
       "img": "img/team/angie.jpeg",
       "name": "Angie Choez",
-      "job": "Project Manager"
+      "job": "Jefa de Proyectos"
     }
   ],
   "Contact": {
